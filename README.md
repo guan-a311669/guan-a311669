@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Shan-Wei Chang 👋
 
-<!--
-**guan-a311669/guan-a311669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Developer | Data Engineer | Healthcare AI
 
-Here are some ideas to get you started:
+I am a career transitioner with a healthcare background who is passionate about Artificial Intelligence and Data Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building practical AI applications using Python, SQL, Machine Learning and Streamlit.
+
+## 🚀 Featured Projects
+
+### ❤️ AI Heart Health System
+- Cardiovascular disease prediction
+- Machine Learning
+- Streamlit Dashboard
+- Healthcare AI
+
+### 📈 AI Taiwan Stock Analysis System
+- Stock data ETL
+- Machine Learning prediction
+- Technical indicators
+- Strategy dashboard
+- Streamlit deployment
+
+## 🛠 Skills
+
+- Python
+- SQL
+- SQLite
+- Machine Learning
+- Data Analysis
+- ETL
+- Streamlit
+- Pandas
+- Plotly
+- Git
+- GitHub
+
+## 🌱 Currently Learning
+
+- Data Engineering
+- AI Applications
+- LLM Applications
+- Cloud Technologies
+
+## 📫 Contact
+
+- GitHub: https://github.com/guan-a311669

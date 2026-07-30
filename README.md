@@ -22,13 +22,6 @@ https://app.powerbi.com/links/_Y1uWN7aIF?ctid=06e69d4f-59a1-4a34-9575-18d98d8b04
 - Hospital Performance Analysis
 - Physician Analytics
 - Business Intelligence
-  
-### 🏥 Healthcare Outpatient Analytics Dashboard (Power BI)
-- Interactive Power BI Dashboard
-- Healthcare Data Visualization
-- Hospital Performance Analysis
-- Physician Analytics
-- Business Intelligence
 
 ### ❤️ [AI Heart Health System](https://github.com/guan-a311669/AI-HeartHealth-System)
 

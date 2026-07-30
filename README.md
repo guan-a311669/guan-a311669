@@ -1,12 +1,21 @@
 # Hi, I'm Shan-Wei Chang 👋
 
-AI Developer | Data Engineer | Healthcare AI
+AI Data Analyst | Power BI | Python | SQL | Healthcare Analytics
 
-I am a career transitioner with a healthcare background who is passionate about Artificial Intelligence and Data Engineering.
+I have a healthcare background and specialize in AI-assisted data analysis and Business Intelligence.
 
-Currently building practical AI applications using Python, SQL, Machine Learning and Streamlit.
+Skilled in Python, SQL, Power BI, Excel and data visualization, I enjoy transforming data into meaningful insights that support better decision-making.
+
+Currently developing data analytics projects using Power BI, Python and SQL, with a focus on healthcare analytics and business intelligence. 
 
 ## 🚀 Featured Projects
+
+### 🏥 Healthcare Outpatient Analytics Dashboard (Power BI)
+- Interactive Power BI Dashboard
+- Healthcare Data Visualization
+- Hospital Performance Analysis
+- Physician Analytics
+- Business Intelligence
 
 ### ❤️ AI Heart Health System
 - Cardiovascular disease prediction
@@ -23,25 +32,23 @@ Currently building practical AI applications using Python, SQL, Machine Learning
 
 ## 🛠 Skills
 
-- Python
-- SQL
-- SQLite
-- Machine Learning
-- Data Analysis
-- ETL
-- Streamlit
-- Pandas
-- Plotly
-- Git
-- GitHub
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🌱 Currently Learning
+🌱 Currently Learning
 
-- Data Engineering
-- AI Applications
-- LLM Applications
-- Cloud Technologies
-
+- Power BI Advanced Dashboard Design
+- SQL Query Optimization
+- Healthcare Data Analytics
+- Business Intelligence (BI)
+- 
 ## 📫 Contact
 
 - GitHub: https://github.com/guan-a311669
+- Email: a311669@gmail.com

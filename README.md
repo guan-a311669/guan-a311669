@@ -9,7 +9,20 @@ Skilled in Python, SQL, Power BI, Excel and data visualization, I enjoy transfor
 Currently developing data analytics projects using Power BI, Python and SQL, with a focus on healthcare analytics and business intelligence. 
 
 ## 🚀 Featured Projects
+### 🏥 [Healthcare Outpatient Analytics Dashboard](https://github.com/guan-a311669/Healthcare-Outpatient-Analytics-Dashboard)
 
+Interactive Power BI dashboard for healthcare outpatient analytics and business intelligence.
+
+🌐 **Live Dashboard**
+
+https://app.powerbi.com/links/_Y1uWN7aIF?ctid=06e69d4f-59a1-4a34-9575-18d98d8b04ab&pbi_source=linkShare
+
+- Interactive Power BI Dashboard
+- Healthcare Data Visualization
+- Hospital Performance Analysis
+- Physician Analytics
+- Business Intelligence
+  
 ### 🏥 Healthcare Outpatient Analytics Dashboard (Power BI)
 - Interactive Power BI Dashboard
 - Healthcare Data Visualization
@@ -17,18 +30,19 @@ Currently developing data analytics projects using Power BI, Python and SQL, wit
 - Physician Analytics
 - Business Intelligence
 
-### ❤️ AI Heart Health System
-- Cardiovascular disease prediction
+### ❤️ [AI Heart Health System](https://github.com/guan-a311669/AI-HeartHealth-System)
+
+- Cardiovascular Disease Prediction
 - Machine Learning
 - Streamlit Dashboard
-- Healthcare AI
+- Python & Scikit-learn
 
-### 📈 AI Taiwan Stock Analysis System
-- Stock data ETL
-- Machine Learning prediction
-- Technical indicators
-- Strategy dashboard
-- Streamlit deployment
+### 📈 [AI Taiwan Stock Analysis System](https://github.com/guan-a311669/AI-Taiwan-Stock-Analysis-System)
+
+- Taiwan Stock Market Analytics
+- Machine Learning Prediction
+- Streamlit Dashboard
+- Data Visualization
 
 ## 🛠 Skills
 
@@ -52,3 +66,4 @@ Currently developing data analytics projects using Power BI, Python and SQL, wit
 
 - GitHub: https://github.com/guan-a311669
 - Email: a311669@gmail.com
+- 📊 Power BI Dashboard: https://app.powerbi.com/links/_Y1uWN7aIF?ctid=06e69d4f-59a1-4a34-9575-18d98d8b04ab&pbi_source=linkShare

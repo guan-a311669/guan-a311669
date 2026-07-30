@@ -47,7 +47,7 @@ Currently developing data analytics projects using Power BI, Python and SQL, wit
 - SQL Query Optimization
 - Healthcare Data Analytics
 - Business Intelligence (BI)
-- 
+  
 ## 📫 Contact
 
 - GitHub: https://github.com/guan-a311669

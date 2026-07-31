@@ -59,4 +59,4 @@ https://app.powerbi.com/view?r=eyJrIjoiMmZlMWUzMTUtODgzNS00YzIyLWIzZDktMmJmNWIwN
 
 - GitHub: https://github.com/guan-a311669
 - Email: a311669@gmail.com
-- 📊 Power BI Dashboard: https://app.powerbi.com/links/_Y1uWN7aIF?ctid=06e69d4f-59a1-4a34-9575-18d98d8b04ab&pbi_source=linkShare
+- 📊 Power BI Dashboard:https://app.powerbi.com/view?r=eyJrIjoiMmZlMWUzMTUtODgzNS00YzIyLWIzZDktMmJmNWIwNWY2ODg0IiwidCI6IjA2ZTY5ZDRmLTU5YTEtNGEzNC05NTc1LTE4ZDk4ZDhiMDRhYiIsImMiOjEwfQ%3D%3D&pageName=37a7697b2a9b000c0a84

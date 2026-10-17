@@ -4,7 +4,7 @@
 
 ### 用資料探索問題，用 AI 打造解決方案。
 
-**AI ・ Data Analytics ・ Business Intelligence ・ Dashboard**
+**FDE Career Direction ・ AI Applications ・ Data Analytics ・ System Integration**
 
 </div>
 
@@ -12,13 +12,19 @@
 
 ## 👋 關於
 
-你好，我是 **章魚** 🐙
+你好，我是 **章魚** 🐙（張繕薇 Shan-Wei Chang）。
 
 歡迎來到 **墨海研究室**。
 
-這裡分享我透過 **AI、資料分析、Python、SQL、Power BI** 完成的作品。
+我具備護理與視光背景，透過資料分析及 AI 專案實作，持續學習軟體開發與系統整合。我希望展示的不只是技術本身，而是如何理解需求，把資料、模型與視覺化整合成可操作的解決方案。
 
-我希望展示的不只是技術本身，而是如何把資料、模型與視覺化整合成可以理解、可以操作、可以協助決策的解決方案。
+### 🎯 求職方向（依意願排序）
+
+1. **FDE 前線部署工程師**：結合需求溝通、技術實作、應用導入與問題排除
+2. **後端工程師**：從 Python 與資料庫專案經驗出發，持續學習 API 與服務端開發
+3. **資料工程師**：延伸資料整理與 SQLite 實作，持續學習 ETL 與資料管線建置
+
+> 目前參加 AI 新秀／FDE 培訓；以上為求職與學習方向，並非已任職職稱。
 
 ---
 
@@ -100,7 +106,7 @@
 
 ### 🛠 技術
 
-`Python` `Pandas` `Streamlit` `SQLite` `Plotly` `Machine Learning`
+`Python` `Pandas` `SQLite` `Scikit-learn` `XGBoost` `LightGBM` `Streamlit` `Plotly`
 
 ### 🔗 作品連結
 
@@ -163,22 +169,20 @@
 `SQLite`
 
 ### 🤖 AI / Machine Learning
-`Classification` `Model Evaluation` `Explainability`
+`Classification` `Model Evaluation` `Explainability` `XGBoost` `LightGBM`
 
 ### 🌐 Deployment
 `Streamlit` `GitHub`
 
 ---
 
-# 🎯 目前持續學習
+# 🎯 培訓與目前學習
 
-- AI 應用
-- 資料分析
-- Business Intelligence
-- Dashboard Design
-- Python Automation
-- 資料處理流程
-- AI 輔助工作流程
+- **AI 與商業資料分析人才班（2026/04–08，已完成）**：Python、SQL、Power BI、機器學習與互動式成果展示
+- **AI 新秀／FDE 培訓（2026/10 起，受訓中）**：HTML、CSS、Bootstrap、JavaScript、Linux 基礎、SSH
+- **後續學習方向**：API、Docker、Local LLM、RAG、AI 系統整合及資料管線
+
+> 專案實作、目前學習和後續規劃分開列示；開發過程搭配 AI 工具協助，持續加強語法理解、除錯與獨立實作能力。
 
 ---
 
@@ -195,7 +199,7 @@
 - Live Demo
 - 使用情境
 
-核心原始碼、模型檔、資料庫與資料集不作為公開展示內容。
+部分專案公開程式碼與展示內容；模型檔、資料庫及資料集等可能不公開。實際提供的檔案請以各 Repository 為準。
 
 ---
 
